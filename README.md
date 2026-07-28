@@ -16,3 +16,5 @@
    ERA SWITCHER: Use Style Settings plugin dropdown, OR manually
    add class "lcars-tng" or "lcars-film" to the body element.
    Picard is the default.
+
+<img width="1919" height="1032" alt="2026-07-28_16-42" src="https://github.com/user-attachments/assets/e3873b55-5fd9-47ba-905b-d6f27fe47ae8" />
